@@ -1,0 +1,49 @@
+.iput {
+    text-align: center;
+}
+
+i {
+    font-size: 1.3rem;
+    margin-right: .5rem;
+}
+
+body {
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+}
+
+
+.first,
+.second {
+    font-family: 'Lobster Two', cursive;
+    font-size: 4rem;
+}
+
+.second {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+}
+
+.and {
+    font-size: 2rem;
+    font-family: cursive;
+    font-family: sans-serif;
+}
+
+h4 {
+    font-size: 2.2rem;
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: 1.6rem;
+    margin-top: 3rem;
+}
+
+.quote {
+    font-size: 2rem;
+    font-family: 'Kaushan Script', cursive;
+}
